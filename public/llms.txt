@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חולצות מעוצבות ייחודיות שמדברות בשבילך. ב־ARTEECA תמצאי קולקציות בעיצוב אמנותי לצד שירות עיצוב אישי. הזמיני עכשיו וקבלי חולצה שאין כמוה!
+
+### עיצוב מותאם אישית
+https://example.com/custom-design
+עצבי חולצה ייחודית בדיוק לפי הדמיון שלך! שירות העיצוב האישי של ARTEECA מאפשר לך לבחור דוגמה, צבע וסגנון — מתנות ייחודיות חולצות מעוצבות שאף אחד אחר לא יחזיק.
+
+### אודות ARTEECA
+https://example.com/about
+ARTEECA נולדה מאהבה לאופנה ולאמנות. גלי מי אנחנו, מה מניע אותנו ולמה אלפי לקוחות בוחרים בחולצות המעוצבות הייחודיות שלנו כדי לבטא את עצמם בביגוד.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה על הזמנה, עיצוב אישי או שיתוף פעולה? צוות ARTEECA כאן בשבילך. פני אלינו עכשיו ונהפוך כל רעיון לחולצה מעוצבת שתאהבי ללבוש כל יום.
+
+### Products
+https://example.com/products
+המוצרים שלנו - ARTEECA
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - ARTEECA
+
+### Category
+https://example.com/category/:slug
+מוצרים - ARTEECA
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
